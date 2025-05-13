@@ -112,7 +112,7 @@ class Game() :
                     self.score += int((self.snek.segments.__len__() * self.fps / 2))
                     self.snek.add_segment()
                     self.snek.food_eaten += 1
-                    self.snek.color = (random.randint(0, 230), random.randint(0, 230), random.randint(0, 230))
+                    self.snek.color = (random.randint(30, 255), random.randint(30, 255), random.randint(30, 255))
                     
                 pygame.display.flip()
                 
