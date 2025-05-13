@@ -1,0 +1,6 @@
+.venv
+*/src/build/
+*/src/dist/
+SpaceInvader/
+.DS_Store
+__pycache__
