@@ -18,7 +18,7 @@ For now, I project to add the following:
 - Space Invaders
 - Breakout
 
-Snake is possible to make into an .exe file using pyinstaller :
+Snake is possible to make into an .exe file using pyinstaller from the `src` folder :
 ```bash
 pyinstaller --clean main.spec
 ```
