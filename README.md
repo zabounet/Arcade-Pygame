@@ -6,13 +6,13 @@ The point is to experiment with game making (code, pixel arts, music and level d
 - Snake
 - Pong
 - Tetris
+- Flappy... Square ? (WORK IN PROGRESS)
 
 ## The games of my own are :
 - Chase
 
 I plan to add more games in the future, including more ambitious ones. 
 For now, I project to add the following:
-- Flappy Bird
 - Asteroids
 - Pacman
 - Space Invaders
